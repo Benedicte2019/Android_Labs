@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="welcome">Welcome</string>
+    <string name="art_gallery">to our art gallery</string>
+    <string name="changeImage">Change Image</string>
+    <string name="enterName">Name</string>
+    <string name="petdog">Milou</string>
+    <string name="handArt">Hand</string>
+    <string name="earRingsArt">Earings</string>
+</resources>
