@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="todoName">Name</string>
+    <string name="addTodo">Add To do</string>
+    <string name="todoAdded">Task added</string>
+    <string name="addTask">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="deleteTodo">Task deleted</string>
+    <string name="delete">Delete Task?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="completed">Task Completed </string>
+</resources>
