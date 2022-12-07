@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="new_topics">List of new articles topics</string>
+    <string name="all_article">All Completed Articles</string>
+</resources>
